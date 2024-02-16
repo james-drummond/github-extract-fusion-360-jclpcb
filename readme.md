@@ -1,4 +1,4 @@
-# ExtractFUSION306tojpljcl
+# Extract FUSION360 to jlcpcb.com
 
  This is a simple python program to produce the Bill of Materials (BOM) and layout from the FUSION 360 files which are needed to send a pcb assembly to jlcpcb.com
     
