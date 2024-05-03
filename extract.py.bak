@@ -341,7 +341,6 @@ if __name__ == "__main__":
                 found = found or (item.strip() in devices)
             if found:
                 page['A' + str(i)] = c.strip()
-                page['B' + str(i)] = d.strip()
                 page['C' + str(i)] = e.strip()
                 g = ""
                 try:
